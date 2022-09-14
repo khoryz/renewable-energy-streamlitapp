@@ -1,11 +1,8 @@
-# Project Name
+# Renewable Energy in Switzerland
 
-example image:
+![Screenshot of Streamlit app](reports/img/Streamlit_app.png)
 
-
-![alternative text](reports/img/streamlit_app.jpg)
-
-
+#### -- Streamlit App Link: https://khoryz-my-first-streamlitapp-srcpowerplant-rvueq9.streamlitapp.com/
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
