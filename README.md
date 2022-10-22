@@ -3,7 +3,7 @@
 ![Screenshot of Streamlit app](reports/img/Streamlit_app.png)
 
 #### -- Streamlit App Link: https://khoryz-my-first-streamlitapp-srcpowerplant-rvueq9.streamlitapp.com/
-#### -- Project Status: [Active]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is to provide some summary statistics on the renewable energy plants in Switzerland.
