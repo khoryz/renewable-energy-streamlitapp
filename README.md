@@ -13,7 +13,10 @@ The purpose of this project is to provide some summary statistics on the renewab
 
 ### Technologies
 * Python
-* Pandas, jupyter
+* Pandas
+* Plotly
+* Jupyter Lab
+* PyCharm
 * Streamlit
 
 ## Project Description
